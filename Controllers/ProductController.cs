@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace firstaspapp.Controllers
 {
-    [Authorize]
+    [Authorize(Policy = "Admin")]
     public class ProductController : Controller
     {
         public IActionResult Index()

@@ -259,3 +259,4 @@ E:\firstaspapp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 E:\firstaspapp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 E:\firstaspapp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 E:\firstaspapp\obj\Debug\net8.0\firstaspapp.MvcApplicationPartsAssemblyInfo.cs
+E:\firstaspapp\obj\Debug\net8.0\firstaspapp.sourcelink.json

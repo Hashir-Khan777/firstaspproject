@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace firstaspapp.Controllers
 {
-    [Authorize]
+    [Authorize(Policy = "Admin")]
     public class CategoryController : Controller
     {
         private readonly MarketContext db;

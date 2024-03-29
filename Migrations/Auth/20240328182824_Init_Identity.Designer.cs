@@ -12,7 +12,7 @@ using firstaspapp.Data;
 namespace firstaspapp.Migrations.Auth
 {
     [DbContext(typeof(AuthContext))]
-    [Migration("20240326183642_Init_Identity")]
+    [Migration("20240328182824_Init_Identity")]
     partial class Init_Identity
     {
         /// <inheritdoc />

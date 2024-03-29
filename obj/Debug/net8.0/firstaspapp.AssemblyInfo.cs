@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("firstaspapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bea3164c869d707d2c5630adb80af2c9a480bc74")]
 [assembly: System.Reflection.AssemblyProductAttribute("firstaspapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("firstaspapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
